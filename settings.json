@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Star_Word",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Rafaxd11.aternos.me",
+    "ip": "Rafaxd11.aternos.me:12289",
     "port": 12289,
     "version": "",
     "try-creative": false
